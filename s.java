@@ -1,1 +1,1 @@
-stash in main in branch1
+stash in main in branch1 from branch2
